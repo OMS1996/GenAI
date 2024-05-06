@@ -1,3 +1,4 @@
+#https://huggingface.co/mlabonne/Meta-Llama-3-120B-Instruct
 !pip install -qU transformers accelerate
 
 from transformers import AutoTokenizer
